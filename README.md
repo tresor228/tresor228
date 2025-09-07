@@ -1,23 +1,32 @@
-# 👋 Salut, je suis Kodjo 🌱
+<p align="center">
+  <img src="https://i.ibb.co/2P4RZDf/developer-sticker.png" alt="Développeur" width="800"/>
+</p>
 
-💻 Étudiant en Informatique & Développeur Web basé au Togo.  
-Passionné par l’IA, le Big Data et le développement full-stack.  
+# 👋 Salut, je suis Trésor ALADE 🌱
+
+💻 Étudiant en Développement d’Applications & Développeur Backend.  
+🎯 Passionné par le développement web et les technologies backend.  
+🌍 Mon objectif : concevoir des solutions **innovantes**, **performantes** et ayant un **impact utile**.
 
 ---
 
 ## 🚀 Compétences techniques
-![Python](https://img.shields.io/badge/-Python-blue?logo=python)
-![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go)
-![Java](https://img.shields.io/badge/-Java-red?logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+
+> 💡 Compétences principales : Go, HTML, CSS, JavaScript  
+> 💡 En apprentissage : TypeScript, React
 
 ---
 
 ## 🌟 Projets phares
-- **To-Do List en Go** → [Voir le projet](https://github.com/Tresor228/ToDoList-Go)
-- **Gestion de tâches avec API** → [Voir le projet](https://github.com/Tresor228/TaskManagerAPI)
+- **To-Do List Console en Go** → [Voir le projet](https://github.com/Tresor228/ToDoList-Go)  
+- **Gestion de tâches (API en Go)** → [Voir le projet](https://github.com/Tresor228/TaskManagerAPI)  
+- **Boutique E-commerce (WooCommerce/Shopify)** → *(à venir)*  
 
 ---
 
@@ -29,5 +38,10 @@ Passionné par l’IA, le Big Data et le développement full-stack.
 ---
 
 ## 📫 Me contacter
-- Email : tresor@example.com  
-- LinkedIn : [Mon profil](https://linkedin.com/in/tresor)
+- 📧 Email : **bernardalade92@gmail.com**  
+- 🔗 LinkedIn : [Mon profil](https://www.linkedin.com/in/tr%C3%A9sor-alade-095a12337/)  
+
+---
+
+✨ Merci de visiter mon profil GitHub !  
+N’hésitez pas à me contacter pour collaborer 🚀
