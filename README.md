@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.ibb.co/2P4RZDf/developer-sticker.png" alt="Développeur" width="800"/>
-</p>
-
 # 👋 Salut, je suis Trésor ALADE 🌱
 
 💻 Étudiant en Développement d’Applications & Développeur Backend.  
@@ -24,9 +20,8 @@
 ---
 
 ## 🌟 Projets phares
-- **To-Do List Console en Go** → [Voir le projet](https://github.com/Tresor228/ToDoList-Go)  
-- **Gestion de tâches (API en Go)** → [Voir le projet](https://github.com/Tresor228/TaskManagerAPI)  
-- **Boutique E-commerce (WooCommerce/Shopify)** → *(à venir)*  
+- **To-Do List Console en Go** → [Voir le projet](https://github.com/Tresor228/Gestion-des-t-aches)  
+- **Gestion de tâches (API en Go)** → [Voir le projet](https://github.com/Tresor228/projet-api)  
 
 ---
 
